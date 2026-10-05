@@ -4,7 +4,7 @@
 
 A working prototype of our solution: bring a reluctant offline manufacturer onto Meesho, and keep them there without subsidies or manual handholding that can't scale.
 
-**▶ Live demo:** https://YOUR-GITHUB-USERNAME.github.io/meesho-c2m-launchpad/ &nbsp;·&nbsp; **🎬 Video:** [`demo.mp4`](demo.mp4) &nbsp;·&nbsp; **📄 Deck:** Deckheads_IIT Madras
+**▶ Live demo:** https://github.com/SubwayAstronomer/Deckheads_IIT_Madras_SG &nbsp;·&nbsp; **🎬 Video:** [`demo.mp4`](demo.mp4) &nbsp;·&nbsp; **📄 Deck:** Deckheads_IIT Madras
 
 > Open the live demo and press **Play guided demo**. It walks the whole story in about 3 minutes.
 
